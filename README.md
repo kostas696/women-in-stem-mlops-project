@@ -81,7 +81,7 @@ women-in-stem-mlops-project/
 **Women in STEM: Global Education Trends Dataset (2000–2023)**
 
 * Source: Kaggle (UNESCO, OECD, national statistics)
-* Records: \~500 across 6 countries and 4 STEM fields
+* Records: ~500 across 6 countries and 4 STEM fields
 * Features:
 
   * `country`, `year`, `stem_field`
@@ -92,7 +92,7 @@ women-in-stem-mlops-project/
 
 * No missing or duplicate records.
 * Low inter-feature correlation but strong year-over-year variability.
-* Engineering showed highest avg. graduation (\~38%).
+* Engineering showed highest avg. graduation (~38%).
 * Clear disparities across gender and regions.
 * Processed data exported as `X.npy` and `y.npy`.
 
@@ -140,20 +140,42 @@ women-in-stem-mlops-project/
 
 ---
 
-## 🚀 Run Locally (Assumed Dockerized)
+## 🛠️ How to Reproduce This Project
 
+### 1. Clone the repo
 ```bash
-# Build the image
-sudo docker build -t women-in-stem-app .
-
-# Run all services
-sudo docker-compose up
-
-# Access APIs/UI
-- FastAPI: http://localhost:8000
-- Airflow: http://localhost:8080
-- MLflow: http://localhost:5000
+git clone https://github.com/kostas696/women-in-stem-mlops-project.git
+cd women-in-stem-mlops-project
 ```
+
+### 2. Build and start services
+```bash
+docker compose up --build
+```
+
+### 3. Trigger the pipeline
+- Access Airflow: http://localhost:8080
+- Run `stem_pipeline_dag`
+
+### 4. Make predictions
+```bash
+curl -X POST "http://localhost:8000/predict" \
+     -H "Content-Type: application/json" \
+     -d '[
+           {
+              "year": 2022,
+              "female_enrollment": 45.7,
+              "gender_gap_index": 0.78,
+              "country": "Canada",
+              "stem_fields": "Engineering",
+              "model_name": "catboost"
+            }
+         ]'
+
+```
+
+### 5. View monitoring reports
+- Open `monitoring/reports/` in your browser.
 
 ---
 
@@ -188,13 +210,6 @@ pre-commit run --all-files
 
 ---
 
-## 👤 Author
-
-**Konstantinos Soufleros**
-Certified Machine Learning Engineer | MLOps Practitioner
-
----
-
 ## 🏁 Next Steps (Future Work)
 
 * Enable online monitoring with Evidently Collector
@@ -203,3 +218,8 @@ Certified Machine Learning Engineer | MLOps Practitioner
 * Optimize models with Optuna
 
 ---
+
+## 👤 Author
+
+**Konstantinos Soufleros**  
+Certified Machine Learning Engineer | MLOps Practitioner
