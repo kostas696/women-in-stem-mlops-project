@@ -1,0 +1,501 @@
+Country,Year,Female Enrollment (%),Female Graduation Rate (%),STEM Fields,Gender Gap Index
+China,2018,20.4,43.2,Engineering,0.52
+China,2005,35.6,29.3,Mathematics,0.98
+China,2005,53.7,32.4,Biology,0.6
+Germany,2007,65.0,63.6,Mathematics,0.69
+Canada,2010,54.4,28.8,Engineering,0.74
+India,2001,53.0,54.5,Computer Science,0.54
+Canada,2002,69.0,23.2,Engineering,0.86
+India,2000,29.5,38.1,Engineering,0.9
+USA,2014,57.1,35.7,Biology,0.61
+China,2020,36.7,64.3,Computer Science,0.96
+Australia,2004,39.9,41.9,Mathematics,0.69
+USA,2023,32.4,11.0,Computer Science,0.52
+Australia,2000,68.0,31.3,Engineering,0.51
+USA,2001,63.2,50.5,Mathematics,0.57
+China,2005,29.1,50.5,Biology,0.63
+India,2001,48.7,21.2,Mathematics,0.51
+China,2005,60.1,54.8,Engineering,0.83
+China,2020,63.6,62.4,Engineering,0.81
+Germany,2012,40.0,56.3,Computer Science,0.66
+USA,2007,55.7,30.1,Biology,0.82
+Germany,2016,39.3,64.9,Engineering,0.62
+Australia,2001,32.5,51.6,Mathematics,0.92
+USA,2014,41.8,50.0,Engineering,0.85
+USA,2021,32.5,55.9,Biology,0.63
+China,2023,53.7,43.6,Engineering,0.6
+China,2016,27.8,43.6,Biology,0.72
+Canada,2013,69.1,32.9,Engineering,0.54
+China,2014,56.0,56.2,Engineering,0.93
+India,2015,21.6,23.2,Mathematics,0.99
+Australia,2001,24.5,43.8,Mathematics,0.58
+China,2010,60.7,11.5,Mathematics,0.74
+China,2005,46.2,47.9,Computer Science,0.95
+Germany,2019,41.0,17.0,Engineering,0.7
+India,2000,42.4,40.4,Mathematics,0.66
+India,2016,45.3,40.6,Engineering,0.69
+Canada,2005,47.6,64.0,Mathematics,0.78
+India,2003,34.6,15.1,Mathematics,0.84
+Australia,2002,43.4,58.8,Mathematics,0.63
+Australia,2021,29.0,54.3,Computer Science,0.85
+Germany,2023,36.4,24.5,Computer Science,0.82
+Australia,2007,33.5,24.5,Computer Science,0.53
+USA,2018,38.4,33.3,Biology,0.63
+USA,2010,45.5,40.2,Biology,0.63
+China,2005,36.1,38.7,Computer Science,0.71
+Australia,2006,64.6,59.7,Engineering,0.76
+Canada,2009,37.9,51.9,Engineering,0.6
+China,2015,42.9,64.8,Biology,0.8
+Germany,2023,20.9,63.9,Computer Science,0.92
+Australia,2015,46.4,27.4,Mathematics,0.8
+Germany,2022,38.8,17.1,Mathematics,0.63
+Australia,2018,62.3,51.5,Computer Science,0.7
+India,2013,42.3,11.5,Biology,0.87
+China,2015,20.8,23.9,Engineering,0.9
+USA,2023,38.0,39.4,Biology,0.75
+China,2005,37.6,47.4,Biology,0.72
+India,2023,60.8,50.1,Biology,0.77
+China,2013,65.8,26.9,Computer Science,0.71
+Canada,2016,23.4,21.6,Engineering,0.99
+Australia,2010,60.9,53.2,Engineering,0.75
+China,2011,31.3,53.6,Engineering,0.71
+China,2023,33.4,45.7,Mathematics,0.61
+China,2006,42.4,10.8,Engineering,0.66
+Canada,2023,33.2,18.0,Engineering,0.6
+India,2015,56.9,63.8,Engineering,0.69
+Australia,2008,54.9,27.8,Mathematics,0.64
+USA,2007,35.2,19.8,Biology,0.96
+Germany,2023,37.3,49.3,Computer Science,0.83
+Australia,2008,27.2,61.5,Mathematics,0.57
+Germany,2010,29.5,10.9,Biology,0.98
+USA,2002,37.5,17.7,Engineering,0.63
+Canada,2023,21.0,62.7,Biology,0.98
+Canada,2009,23.2,59.0,Biology,0.77
+Germany,2016,60.5,48.9,Engineering,0.63
+Australia,2012,31.5,16.2,Mathematics,0.56
+Canada,2008,63.7,33.9,Mathematics,0.57
+USA,2007,52.0,28.1,Biology,0.52
+China,2017,55.3,19.2,Engineering,0.57
+Australia,2014,33.3,36.6,Mathematics,0.73
+India,2022,69.5,31.6,Engineering,0.74
+Germany,2020,31.9,44.5,Biology,0.58
+Germany,2022,22.9,44.9,Engineering,0.72
+Germany,2015,20.6,61.9,Engineering,0.92
+India,2001,37.7,23.4,Computer Science,0.62
+USA,2003,30.9,48.1,Mathematics,0.63
+India,2004,23.3,56.6,Engineering,0.73
+USA,2022,62.9,45.7,Biology,0.67
+Australia,2006,24.3,30.2,Mathematics,0.92
+India,2022,35.6,19.6,Engineering,0.65
+USA,2023,52.5,22.7,Biology,0.65
+Australia,2012,50.3,16.6,Computer Science,0.93
+Germany,2006,61.9,45.1,Mathematics,0.82
+Australia,2015,63.6,63.8,Mathematics,0.74
+Australia,2003,25.7,36.9,Computer Science,0.54
+Germany,2007,41.1,51.3,Computer Science,0.85
+Canada,2000,58.1,16.2,Biology,0.97
+India,2004,51.5,28.1,Mathematics,0.8
+Australia,2021,37.7,16.3,Biology,1.0
+China,2007,28.0,17.6,Mathematics,0.88
+USA,2016,38.7,12.6,Engineering,0.95
+Australia,2000,55.0,43.1,Mathematics,0.98
+Germany,2018,56.6,25.0,Engineering,0.59
+Canada,2010,43.3,29.0,Computer Science,0.96
+Australia,2000,68.2,62.5,Biology,0.99
+Canada,2002,48.4,18.2,Engineering,0.59
+Australia,2014,59.2,49.1,Biology,0.98
+Canada,2010,69.4,28.2,Mathematics,0.89
+India,2003,49.6,22.0,Computer Science,0.51
+China,2014,20.4,27.9,Engineering,0.85
+Canada,2012,23.6,38.7,Engineering,0.62
+India,2005,25.9,21.2,Mathematics,0.91
+India,2003,36.8,42.9,Computer Science,0.52
+China,2016,37.4,27.5,Mathematics,0.66
+Canada,2007,46.1,40.2,Computer Science,0.76
+China,2007,22.8,58.3,Engineering,0.95
+Canada,2020,57.0,45.5,Computer Science,0.63
+USA,2009,27.5,19.8,Biology,0.67
+USA,2017,58.9,51.1,Mathematics,0.93
+China,2000,59.9,45.6,Mathematics,0.85
+Australia,2001,40.0,11.6,Engineering,0.94
+India,2016,24.9,47.2,Biology,0.6
+Canada,2008,34.6,41.1,Computer Science,0.84
+Germany,2009,27.7,12.0,Mathematics,0.68
+Canada,2001,60.7,37.7,Engineering,0.69
+Canada,2005,44.5,56.9,Engineering,0.94
+Germany,2011,54.2,26.7,Mathematics,0.99
+Australia,2015,51.5,16.4,Engineering,0.68
+USA,2010,68.2,22.3,Engineering,0.59
+USA,2017,29.7,11.4,Engineering,0.91
+Germany,2014,56.5,11.5,Biology,0.92
+Canada,2016,24.5,63.5,Mathematics,0.67
+Australia,2007,61.6,54.1,Mathematics,0.85
+USA,2013,68.4,32.8,Mathematics,0.75
+Australia,2012,56.8,42.6,Biology,0.52
+China,2000,48.1,57.3,Computer Science,0.79
+India,2000,27.7,34.5,Biology,0.52
+India,2002,21.2,50.2,Biology,0.63
+India,2004,22.1,48.7,Mathematics,0.73
+USA,2002,57.2,13.8,Biology,0.78
+USA,2022,22.1,61.1,Engineering,0.62
+Germany,2021,39.8,29.5,Mathematics,0.69
+China,2007,40.6,46.1,Engineering,0.58
+Canada,2015,57.7,44.7,Computer Science,0.86
+Australia,2017,47.4,12.3,Mathematics,0.5
+Canada,2009,45.5,32.5,Mathematics,0.66
+USA,2004,47.5,64.1,Computer Science,0.73
+Germany,2000,46.0,19.4,Biology,0.8
+China,2001,37.6,29.3,Computer Science,0.55
+China,2005,53.1,30.8,Computer Science,0.81
+Australia,2016,50.3,25.9,Biology,0.67
+Canada,2018,53.2,48.1,Computer Science,0.64
+China,2018,50.0,19.7,Mathematics,0.75
+Canada,2022,53.7,13.1,Biology,0.79
+USA,2003,64.1,34.0,Biology,0.61
+Germany,2008,23.8,12.8,Mathematics,0.88
+India,2014,36.3,22.4,Computer Science,0.85
+Germany,2001,26.6,14.1,Engineering,0.93
+USA,2011,46.0,49.5,Mathematics,0.99
+Canada,2001,34.4,11.4,Engineering,0.66
+Germany,2000,58.9,49.7,Mathematics,0.81
+Germany,2016,32.2,37.2,Mathematics,0.94
+Canada,2009,23.7,41.5,Computer Science,0.86
+USA,2020,67.2,31.1,Computer Science,0.84
+Canada,2008,35.1,56.5,Computer Science,0.78
+Canada,2018,62.4,26.4,Biology,0.83
+Australia,2005,60.7,45.8,Mathematics,0.6
+Australia,2010,25.5,39.3,Engineering,0.67
+Canada,2003,27.8,27.0,Mathematics,0.7
+Germany,2007,57.1,20.5,Engineering,0.59
+India,2018,21.0,62.3,Biology,0.89
+India,2010,46.1,12.8,Engineering,0.56
+China,2015,54.4,22.2,Engineering,0.79
+Germany,2020,43.2,11.5,Biology,0.81
+India,2005,61.6,12.1,Computer Science,0.9
+India,2007,57.9,48.8,Engineering,0.59
+India,2018,65.1,19.5,Computer Science,0.92
+Australia,2019,55.4,61.9,Engineering,0.87
+India,2019,43.5,57.3,Mathematics,0.73
+Germany,2014,25.3,29.6,Biology,0.5
+China,2004,32.7,32.2,Engineering,0.83
+Canada,2006,27.7,59.0,Engineering,0.78
+USA,2004,60.3,38.7,Mathematics,0.59
+China,2003,53.3,39.1,Engineering,0.56
+USA,2013,40.5,48.6,Biology,0.62
+USA,2002,20.6,10.1,Mathematics,0.64
+USA,2021,32.4,59.2,Engineering,0.6
+Canada,2022,60.7,51.0,Mathematics,0.75
+USA,2006,54.6,19.8,Mathematics,0.73
+Australia,2001,29.9,42.8,Mathematics,0.65
+Canada,2016,26.1,28.7,Computer Science,0.77
+Germany,2002,51.8,44.8,Biology,0.96
+India,2020,33.0,25.5,Engineering,0.72
+Germany,2009,68.6,19.1,Biology,0.56
+India,2013,42.4,51.7,Engineering,0.89
+Germany,2023,34.8,21.3,Computer Science,0.8
+India,2017,58.1,37.7,Biology,0.56
+China,2012,49.8,18.1,Biology,0.94
+Australia,2020,44.8,40.8,Computer Science,0.5
+China,2007,33.7,42.5,Biology,0.54
+India,2002,35.6,24.0,Engineering,0.76
+Australia,2009,35.8,11.7,Biology,0.92
+USA,2023,46.3,43.4,Mathematics,0.58
+Australia,2006,69.5,20.4,Mathematics,0.5
+Australia,2022,36.0,12.0,Mathematics,0.82
+India,2023,20.4,28.0,Computer Science,0.75
+India,2023,21.4,39.7,Biology,1.0
+China,2006,40.6,32.1,Biology,0.61
+USA,2022,41.2,26.5,Biology,0.89
+USA,2022,30.9,11.4,Engineering,0.87
+USA,2006,36.6,45.7,Computer Science,0.52
+USA,2000,50.5,27.0,Computer Science,0.55
+India,2015,40.5,56.7,Biology,0.88
+Canada,2014,54.5,30.7,Biology,0.63
+Germany,2003,43.4,64.7,Biology,0.78
+Australia,2004,31.0,24.6,Biology,0.89
+Canada,2012,46.0,11.1,Engineering,0.62
+Canada,2003,35.1,56.6,Biology,0.74
+Canada,2021,60.8,28.1,Engineering,0.59
+China,2020,22.4,59.6,Biology,0.58
+China,2005,62.6,46.3,Engineering,0.6
+USA,2001,54.2,30.2,Mathematics,0.71
+India,2022,41.5,61.9,Computer Science,0.53
+Germany,2019,68.4,42.3,Engineering,0.68
+Germany,2006,42.7,13.6,Mathematics,0.85
+Canada,2015,30.1,59.6,Mathematics,0.77
+China,2006,47.4,52.2,Engineering,0.62
+Australia,2019,52.2,57.8,Engineering,0.79
+Germany,2020,39.2,28.3,Engineering,0.95
+Australia,2001,51.1,50.7,Computer Science,0.63
+China,2002,21.8,10.8,Engineering,0.51
+Australia,2002,42.4,29.4,Mathematics,0.92
+China,2017,45.5,55.2,Mathematics,0.71
+Australia,2022,46.7,35.9,Computer Science,0.85
+Germany,2009,65.7,10.6,Biology,0.66
+Germany,2014,54.5,25.9,Biology,0.69
+Australia,2010,25.0,47.2,Mathematics,1.0
+Canada,2006,36.7,25.9,Engineering,0.67
+Australia,2018,66.8,37.5,Mathematics,0.77
+Australia,2000,25.3,41.7,Computer Science,0.97
+USA,2006,20.7,22.4,Engineering,0.52
+Canada,2009,33.4,24.1,Biology,1.0
+India,2005,65.7,22.2,Engineering,0.64
+Canada,2012,48.8,24.7,Mathematics,0.57
+Australia,2011,51.2,48.4,Mathematics,0.92
+Germany,2010,22.2,29.1,Mathematics,0.85
+China,2023,68.5,28.1,Mathematics,0.93
+Canada,2009,32.8,21.1,Biology,0.65
+Germany,2007,31.6,39.8,Computer Science,0.65
+Canada,2023,68.6,64.6,Biology,0.61
+USA,2003,62.0,62.4,Biology,0.75
+India,2005,37.0,64.6,Computer Science,0.64
+India,2022,23.8,46.0,Computer Science,0.78
+India,2003,42.6,21.2,Engineering,0.83
+China,2006,42.3,41.0,Biology,0.55
+Canada,2021,37.2,52.3,Computer Science,0.73
+USA,2008,49.2,47.2,Computer Science,0.58
+USA,2022,20.8,13.2,Biology,0.87
+USA,2012,62.2,27.4,Computer Science,0.7
+China,2008,34.2,20.6,Engineering,0.59
+Germany,2020,23.5,23.3,Mathematics,0.71
+Germany,2008,25.9,43.0,Engineering,0.89
+China,2012,29.7,21.5,Mathematics,0.84
+Canada,2019,30.4,54.2,Computer Science,0.99
+Germany,2007,37.7,21.9,Mathematics,0.7
+India,2001,20.4,18.2,Engineering,0.58
+India,2002,67.2,34.7,Biology,0.69
+India,2000,52.8,49.4,Mathematics,0.98
+Canada,2016,30.4,61.3,Engineering,0.73
+China,2011,21.2,54.6,Biology,0.77
+China,2005,51.4,11.7,Mathematics,0.72
+China,2007,30.5,63.2,Engineering,0.55
+Germany,2014,53.6,17.1,Computer Science,0.66
+China,2014,20.8,28.5,Mathematics,0.92
+China,2017,55.5,49.7,Biology,0.85
+Australia,2019,21.9,54.5,Mathematics,0.96
+India,2002,33.5,17.6,Mathematics,0.95
+Australia,2022,33.8,59.3,Engineering,0.85
+Australia,2012,41.9,34.1,Biology,0.85
+China,2001,58.6,37.5,Mathematics,0.66
+Canada,2008,47.9,43.6,Computer Science,0.89
+Australia,2007,52.0,33.1,Computer Science,0.6
+India,2019,63.2,58.0,Biology,0.81
+China,2003,34.7,16.6,Mathematics,0.76
+Australia,2017,29.2,54.2,Computer Science,0.93
+USA,2015,29.6,19.5,Biology,0.73
+Australia,2003,24.2,54.0,Computer Science,0.76
+Germany,2016,40.0,51.6,Computer Science,0.85
+USA,2012,63.5,43.3,Computer Science,0.7
+China,2004,50.5,24.5,Mathematics,0.92
+USA,2019,58.3,61.6,Engineering,0.85
+Australia,2011,57.2,16.1,Computer Science,0.87
+Germany,2004,56.9,32.9,Biology,0.61
+China,2009,52.3,51.6,Engineering,0.59
+China,2018,21.7,13.2,Biology,0.88
+China,2021,30.8,33.6,Biology,0.71
+Canada,2002,57.3,32.8,Mathematics,0.54
+India,2009,48.0,32.8,Computer Science,0.56
+USA,2002,25.4,24.3,Mathematics,0.86
+India,2008,30.5,28.5,Biology,0.91
+Canada,2008,29.7,55.3,Mathematics,0.91
+Canada,2012,44.0,23.8,Mathematics,0.77
+China,2022,68.5,37.9,Biology,0.52
+Australia,2010,60.8,11.4,Engineering,0.87
+Canada,2005,38.1,21.3,Mathematics,0.83
+India,2000,61.6,51.2,Engineering,0.91
+USA,2005,31.4,41.3,Mathematics,0.95
+Canada,2002,58.2,28.9,Engineering,0.62
+China,2013,52.0,55.9,Computer Science,0.96
+China,2023,43.1,26.0,Mathematics,0.75
+China,2006,51.4,36.7,Biology,0.62
+Germany,2005,31.1,10.6,Mathematics,0.76
+Australia,2005,35.0,46.2,Biology,0.71
+Canada,2003,44.9,59.1,Biology,0.93
+Canada,2012,22.0,41.5,Engineering,0.56
+India,2010,21.5,19.2,Computer Science,0.55
+Canada,2018,64.9,53.6,Mathematics,0.77
+Australia,2016,36.2,13.4,Engineering,0.77
+USA,2016,58.9,16.8,Biology,0.8
+USA,2002,53.2,26.4,Computer Science,0.75
+India,2014,49.5,62.6,Engineering,0.89
+USA,2009,51.1,51.9,Computer Science,0.78
+USA,2004,63.7,23.0,Mathematics,0.75
+Germany,2007,46.3,23.4,Computer Science,0.89
+China,2023,65.9,53.1,Mathematics,0.75
+India,2023,22.1,25.6,Engineering,0.94
+USA,2019,59.5,28.3,Computer Science,0.76
+India,2002,62.5,52.2,Mathematics,0.71
+Canada,2005,64.6,31.8,Mathematics,0.63
+China,2023,28.7,13.0,Biology,0.81
+USA,2002,43.5,62.4,Engineering,0.83
+USA,2008,28.8,22.6,Computer Science,0.6
+Australia,2015,66.9,54.8,Computer Science,0.58
+China,2020,68.3,57.0,Engineering,0.8
+Canada,2011,34.1,62.3,Biology,0.81
+Canada,2004,68.6,47.1,Computer Science,0.98
+India,2016,28.6,58.9,Engineering,0.85
+Germany,2019,43.4,34.3,Engineering,0.87
+Canada,2019,41.9,18.8,Computer Science,0.56
+USA,2005,22.6,21.2,Engineering,0.6
+China,2002,43.8,29.6,Engineering,0.98
+Australia,2000,50.8,27.6,Mathematics,0.76
+Canada,2019,68.2,48.3,Engineering,0.88
+Canada,2013,45.7,17.1,Biology,0.79
+Canada,2006,32.3,12.6,Engineering,0.55
+USA,2019,39.4,20.1,Biology,0.83
+USA,2009,59.7,34.9,Engineering,0.67
+Canada,2005,44.2,37.9,Mathematics,0.81
+USA,2023,26.7,22.8,Engineering,0.89
+USA,2023,24.2,14.2,Biology,0.55
+Germany,2013,58.2,55.3,Mathematics,0.52
+Germany,2007,21.3,44.0,Biology,0.76
+India,2011,36.4,23.8,Biology,0.71
+Australia,2019,28.2,30.0,Mathematics,0.78
+USA,2012,42.9,22.7,Biology,0.92
+Canada,2012,20.1,27.2,Computer Science,0.97
+USA,2021,66.0,52.6,Mathematics,0.66
+USA,2014,33.6,60.2,Engineering,0.64
+Australia,2013,21.4,27.1,Mathematics,0.77
+India,2004,44.6,32.0,Computer Science,0.68
+Germany,2012,45.5,58.1,Mathematics,0.95
+USA,2014,28.7,49.3,Computer Science,0.56
+Canada,2022,54.3,17.8,Mathematics,0.76
+China,2010,51.0,28.0,Engineering,0.8
+China,2021,61.3,11.8,Mathematics,0.91
+China,2019,66.8,23.3,Mathematics,0.69
+China,2016,68.7,34.7,Computer Science,0.51
+Germany,2006,44.0,43.9,Biology,0.76
+Australia,2005,36.5,33.0,Biology,0.87
+USA,2017,41.7,39.0,Engineering,0.63
+USA,2017,53.4,32.6,Computer Science,0.63
+Canada,2006,63.1,39.1,Computer Science,0.6
+USA,2009,66.1,41.0,Biology,0.94
+USA,2010,50.6,50.9,Engineering,0.97
+Germany,2021,51.6,54.8,Engineering,0.89
+USA,2020,42.0,61.8,Biology,0.8
+India,2017,48.2,53.4,Engineering,0.97
+Germany,2012,40.8,49.2,Computer Science,0.78
+China,2019,22.8,37.5,Computer Science,0.98
+Germany,2019,21.5,64.1,Computer Science,0.77
+Germany,2007,48.5,50.5,Biology,0.78
+Canada,2005,48.9,21.7,Mathematics,0.69
+Australia,2017,65.2,12.2,Mathematics,0.72
+India,2000,57.6,18.5,Biology,0.78
+USA,2007,38.7,40.4,Engineering,0.78
+India,2023,49.4,30.1,Biology,0.58
+Canada,2014,55.2,63.1,Engineering,0.84
+India,2011,25.7,27.0,Mathematics,0.65
+Canada,2023,64.2,42.5,Computer Science,0.55
+Australia,2015,23.4,30.8,Biology,0.58
+Canada,2022,28.3,32.3,Engineering,0.73
+Canada,2002,48.5,60.6,Biology,0.92
+Germany,2001,62.4,56.2,Biology,0.76
+China,2007,50.4,11.0,Mathematics,0.74
+India,2002,56.1,11.7,Mathematics,0.62
+Canada,2000,21.0,21.3,Computer Science,0.88
+Australia,2004,41.9,52.6,Biology,0.78
+China,2018,32.7,24.7,Biology,0.55
+Australia,2016,30.5,56.9,Mathematics,0.83
+Australia,2011,48.1,50.0,Engineering,0.81
+India,2009,47.2,26.8,Mathematics,0.54
+Canada,2015,61.2,40.8,Mathematics,0.59
+China,2010,65.6,26.5,Engineering,0.69
+USA,2021,51.8,56.0,Biology,0.62
+Germany,2018,36.1,56.4,Biology,0.87
+Australia,2007,29.4,20.4,Biology,0.73
+India,2014,43.0,45.7,Mathematics,0.65
+Australia,2019,64.0,20.7,Computer Science,0.5
+India,2006,26.4,51.1,Computer Science,0.83
+USA,2017,51.0,50.8,Engineering,0.83
+Australia,2021,41.2,10.5,Mathematics,0.7
+Australia,2016,53.7,22.6,Mathematics,0.59
+Canada,2006,28.0,13.8,Engineering,0.58
+India,2013,21.1,39.5,Computer Science,0.67
+Australia,2022,57.9,50.2,Engineering,0.65
+China,2013,27.5,48.2,Mathematics,0.8
+USA,2015,66.6,22.6,Mathematics,0.68
+Canada,2021,47.7,50.4,Computer Science,0.57
+Australia,2003,66.9,33.7,Engineering,0.68
+Germany,2020,37.8,30.5,Biology,0.76
+Germany,2010,69.2,50.7,Mathematics,0.69
+Australia,2000,47.5,11.0,Computer Science,0.73
+Germany,2003,52.5,57.9,Engineering,0.71
+Germany,2017,56.5,14.0,Computer Science,0.72
+Australia,2023,23.3,56.5,Computer Science,0.52
+Canada,2022,20.1,47.3,Biology,0.56
+India,2020,67.2,27.8,Biology,0.95
+China,2000,31.3,23.6,Computer Science,0.74
+Canada,2017,41.4,23.3,Engineering,0.92
+China,2001,48.4,62.9,Computer Science,0.64
+USA,2020,49.2,63.7,Mathematics,0.58
+Australia,2020,36.2,38.9,Engineering,0.53
+Germany,2012,22.4,14.5,Engineering,0.54
+China,2005,29.8,56.9,Engineering,0.94
+China,2017,30.7,57.8,Engineering,0.65
+Germany,2002,30.4,32.2,Engineering,0.5
+Canada,2007,59.1,59.8,Engineering,0.88
+India,2023,26.7,15.0,Computer Science,0.66
+USA,2015,32.0,48.5,Computer Science,0.89
+China,2002,23.7,39.6,Computer Science,0.66
+Germany,2018,54.5,23.7,Computer Science,0.56
+India,2017,38.9,63.7,Mathematics,0.5
+Canada,2003,61.3,56.8,Engineering,0.8
+China,2023,54.9,18.1,Engineering,0.77
+Germany,2021,45.8,10.9,Computer Science,0.92
+Australia,2000,30.4,32.9,Computer Science,0.83
+USA,2022,59.3,55.5,Engineering,0.59
+Germany,2023,69.4,24.1,Computer Science,0.8
+Australia,2019,57.5,54.4,Mathematics,0.97
+India,2005,47.1,30.9,Computer Science,0.84
+Australia,2022,36.0,49.3,Biology,0.93
+Canada,2006,35.7,35.9,Computer Science,0.77
+India,2003,61.8,22.5,Computer Science,0.76
+India,2013,59.2,26.6,Biology,0.93
+India,2011,50.3,46.4,Mathematics,0.96
+USA,2003,63.2,12.0,Engineering,0.71
+Australia,2016,36.9,47.9,Mathematics,0.8
+China,2022,29.8,64.7,Mathematics,0.71
+USA,2002,59.2,53.1,Mathematics,0.5
+China,2013,35.8,55.2,Biology,0.75
+China,2000,33.8,19.0,Biology,0.73
+Canada,2011,24.5,49.5,Mathematics,0.82
+Germany,2004,35.4,33.9,Engineering,0.72
+USA,2002,36.3,42.3,Biology,0.78
+Australia,2003,52.0,26.9,Computer Science,0.59
+India,2022,53.4,49.8,Computer Science,0.64
+India,2010,20.4,15.7,Mathematics,0.84
+India,2018,50.3,41.1,Mathematics,0.86
+USA,2022,56.8,41.4,Mathematics,0.91
+China,2013,44.3,56.2,Engineering,0.9
+Canada,2015,57.5,40.8,Engineering,0.71
+USA,2001,26.9,44.7,Biology,0.54
+India,2009,59.9,27.3,Biology,0.67
+India,2005,55.9,35.3,Computer Science,0.55
+Germany,2021,52.6,62.6,Mathematics,0.82
+Canada,2008,32.1,21.6,Biology,0.78
+China,2022,55.9,32.2,Mathematics,0.63
+Germany,2008,49.5,17.8,Computer Science,0.59
+India,2007,63.2,18.2,Biology,0.79
+China,2011,58.5,12.7,Computer Science,0.86
+Australia,2011,42.4,29.2,Mathematics,0.94
+USA,2007,39.1,10.9,Mathematics,0.91
+Germany,2003,21.1,50.0,Computer Science,0.73
+Australia,2011,22.7,41.4,Biology,0.96
+China,2005,45.5,62.8,Engineering,0.84
+Australia,2016,54.0,27.3,Biology,0.58
+Germany,2015,27.7,19.9,Biology,0.89
+Canada,2019,59.4,49.1,Mathematics,0.83
+Australia,2022,23.4,37.8,Computer Science,0.83
+China,2022,52.1,40.4,Mathematics,0.66
+Canada,2004,65.5,23.2,Computer Science,0.93
+Canada,2012,57.0,35.1,Engineering,0.64
+India,2010,57.4,20.8,Mathematics,0.89
+Australia,2006,59.4,16.8,Biology,0.98
+Germany,2017,47.8,40.7,Mathematics,0.9
+Germany,2003,45.1,43.4,Computer Science,0.67
+India,2019,38.4,25.2,Computer Science,0.92
+Australia,2016,37.2,50.1,Biology,0.91
+India,2010,59.1,61.2,Engineering,0.66
+Germany,2010,34.7,34.2,Engineering,0.92
+Australia,2011,61.2,39.9,Mathematics,0.85
+India,2008,27.6,49.1,Computer Science,0.54

@@ -1,0 +1,39 @@
+services:
+  fastapi:
+    build: .
+    container_name: fastapi_app
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    command: uvicorn fastapi_app.main:app --host 0.0.0.0 --port 8000
+
+  airflow:
+    image: apache/airflow:2.9.1-python3.10
+    container_name: airflow_app
+    depends_on:
+      - fastapi
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor
+      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=sqlite:////app/airflow/airflow.db
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+    ports:
+      - "8080:8080"
+    command: standalone
+
+  mlflow:
+    image: ghcr.io/mlflow/mlflow
+    container_name: mlflow_app
+    environment:
+      - MLFLOW_TRACKING_URI=http://mlflow:5000
+    volumes:
+      - ./mlruns:/mlflow/mlruns
+    ports:
+      - "5000:5000"
+
+  evidently:
+    build:
+      context: .
+    container_name: evidently_app
+    command: python monitoring/generate_report.py

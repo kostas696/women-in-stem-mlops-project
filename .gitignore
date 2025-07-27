@@ -1,0 +1,27 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+.env
+.venv/
+venv/
+env/
+*.egg-info/
+
+# === Jupyter ===
+.ipynb_checkpoints/
+
+# === Airflow ===
+airflow/logs/
+airflow/__pycache__/
+airflow/dags/__pycache__/
+
+# === MLflow ===
+mlruns/
+mlartifacts/
+
+# === Terraform ===
+*.tfstate
+*.t*
